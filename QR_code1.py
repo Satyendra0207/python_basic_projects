@@ -1,3 +1,5 @@
+#Generating QR code using GUI --using Tkinter module 
+
 from tkinter import*
 from tkinter import messagebox
 from PIL import Image,ImageTk
